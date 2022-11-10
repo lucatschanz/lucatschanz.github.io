@@ -1,0 +1,3 @@
+https://luctschanz.github.io/sitemap.xml
+User.agent:*
+Allow:/
