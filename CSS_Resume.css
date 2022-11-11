@@ -7,8 +7,13 @@ body {
 
 .L_Web {
   position:absolute;
-  top:5px;
+  top:-10px;
   right:10px;
+ }
+ #CVI {
+ width:45px;
+ height:33px;
+
  }
 
  #RP {
@@ -16,18 +21,14 @@ body {
    margin: 20px;
  }
 
- .Media {
-   position: absolute;
-   top:0px;
-   left:0px;
- }
 
  h1 {
+   margin-top: 60px;
    font-size: 3em;
    text-align: center;
    border-radius: 5px;
    box-shadow: 5px 5px 20px #888;
-   padding: 20px;
+   padding: 5px;
    text-shadow: 3px 3px #888;
 }
 
@@ -41,7 +42,7 @@ h2 {
   font-style: italic;
   font-size: 15px;
   position: absolute;
-  left: 190px;
+  left:190px;
   top:185px;
 }
 
@@ -67,7 +68,7 @@ h3 {
 }
 
 .Concentration {
-border: 1px solid #000;
+border: 0px solid #000;
 position: absolute;
 padding:5px;
 width: 300px;
@@ -83,4 +84,41 @@ line-height: 30px;
 #paysage {
   position: absolute;
   right: 40px;
+}
+
+.header-fixed {
+  width: 100%;
+  position: fixed;
+  top:0;
+  left: 0;
+  height: 50px;
+  background-color: #FFFFFF;
+  background-color: rgba(255,255,255,0.5);
+  color: black;
+  font-size: 20px;
+
+
+}
+
+.fa {
+  padding: 5px;
+
+}
+
+.fa:hover {
+  border-radius: 20px;
+}
+
+.fa-instagram {
+  background: #a619bf;
+  color: white;
+}
+
+.fa-google {
+  background: #db2a2a;
+  color: white;
+}
+.fa-linkedin {
+  background: #4c84e6;
+  color: white;
 }
