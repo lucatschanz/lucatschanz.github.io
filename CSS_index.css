@@ -1,12 +1,12 @@
 
 body {
   background-color: #CBC3E3;
-  margin: 0 auto:
+  margin: 0 auto;
 }
 
 #PI {
   width: 390px;
-  height: 510px;
+  height: 515px;
   margin: 0 auto;
   float: right;
 }
@@ -16,7 +16,7 @@ body {
       font-style: normal;
           }
 
-          }
+
   .regular {
         font-weight: 400;
     }
@@ -46,7 +46,6 @@ body {
 
       .CL {
         margin-left: 10px;
-
       }
 
 
