@@ -1,20 +1,15 @@
 
 
 body {
-  background-color: #28FFFF;
+  background-color: #CBC3E3;
   margin: 0 auto:
 }
 
-.L_Web {
-  position:absolute;
-  top:-10px;
-  right:10px;
- }
- #CVI {
- width:45px;
- height:33px;
+* {
+    font-family: ;
+    font-style: normal;
+        }
 
- }
 
  #RP {
    float: left;
@@ -29,13 +24,13 @@ body {
    border-radius: 5px;
    box-shadow: 5px 5px 20px #888;
    padding: 5px;
-   text-shadow: 3px 3px #888;
+   text-shadow: 2px 2px #888;
+   color: #;
 }
 
 h2 {
   font-size: 1.32em;
   text-align: center;
-
 }
 
 #left_C {
@@ -53,6 +48,7 @@ h2 {
   left: 540px;
   top:185px;
 }
+
 #right_C {
   font-style: italic;
   font-size: 15px;
@@ -84,39 +80,4 @@ line-height: 30px;
 #paysage {
   position: absolute;
   right: 40px;
-}
-
-.header-fixed {
-  width: 100%;
-  position: fixed;
-  top:0;
-  left: 0;
-  height: 50px;
-  background-color: #FFFFFF;
-  background-color: rgba(255,255,255,0.5);
-  color: black;
-  font-size: 20px;
-}
-
-.fa {
-  padding: 5px;
-
-}
-
-.fa:hover {
-  border-radius: 20px;
-}
-
-.fa-instagram {
-  background: #a619bf;
-  color: white;
-}
-
-.fa-google {
-  background: #db2a2a;
-  color: white;
-}
-.fa-linkedin {
-  background: #4c84e6;
-  color: white;
 }

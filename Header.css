@@ -1,0 +1,70 @@
+
+
+.L_Web {
+  position:absolute;
+  top:-20px;
+  right:10px;
+ }
+
+ .N_Web {
+   position:absolute;
+   top:-10px;
+   right:10px;
+ }
+
+ #CVI {
+ width:45px;
+ height:33px;
+ }
+
+ #BIT {
+ width:40px;
+ height:45px;
+ }
+
+
+ #PEI {
+ width:30px;
+ height:35px;
+ }
+
+ .Media {
+   font-size: 20;
+
+ }
+
+ .header-fixed {
+   width: 100%;
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 50px;
+   background-color: #FFFFFF;
+   background-color: rgba(255,255,255,0.5);
+   color: black;
+   font-size: 20px;
+   z-index: 0;
+ }
+
+ .fa {
+   padding: 5px;
+
+ }
+
+ .fa:hover {
+   border-radius: 20px;
+ }
+
+ .fa-instagram {
+   background: #a619bf;
+   color: white;
+ }
+
+ .fa-google {
+   background: #db2a2a;
+   color: white;
+ }
+ .fa-linkedin {
+   background: #4c84e6;
+   color: white;
+ }
