@@ -19,6 +19,9 @@ h1 {
     margin-left: 40px;
     padding: 5px;
   }
+  .Babson ul li {
+    margin-top: 10px;
+  }
 
 h2 {
 
@@ -35,7 +38,7 @@ h3 {
  position:absolute;
  width: 550px;
  right: 60px;
-margin-top: -50.5vh;
+margin-top: -54vh;
 }
 
 .Australia ul li {
@@ -58,4 +61,7 @@ margin-top: -50.5vh;
    width: 550px;
    right: 60px;
    margin-top: -35vh;
+ }
+ .CERN ul li {
+   margin-top: 10px;
  }
