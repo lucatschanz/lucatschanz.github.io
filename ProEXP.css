@@ -1,0 +1,61 @@
+body {
+    background-color: #CBC3E3;
+    margin: 0 auto;
+}
+
+h1 {
+  font-size: 3em;
+  width: 800px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 5px 5px 20px #888;
+  padding: 5px;
+  text-shadow: 1px 2px #888;
+  margin-top: 60px;
+  margin-left: 225px;
+}
+  .Babson {
+    width: 500px;
+    margin-left: 40px;
+    padding: 5px;
+  }
+
+h2 {
+
+font-size: 20px;
+
+}
+
+h3 {
+ font-size: 18px;
+ padding: -10px;
+}
+
+.Australia {
+ position:absolute;
+ width: 550px;
+ right: 60px;
+margin-top: -50.5vh;
+}
+
+.Australia ul li {
+  margin-top: 10px;
+}
+
+.Pemi {
+  width: 500px;
+  margin-left: 40px;
+  padding: 5px;
+}
+
+.Pemi ul li {
+  margin-top: 10px;
+}
+
+
+ .CERN {
+   position:absolute;
+   width: 550px;
+   right: 60px;
+   margin-top: -35vh;
+ }

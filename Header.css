@@ -12,6 +12,14 @@
    right:10px;
  }
 
+ .N_Web ul img:hover {
+   opacity: 60%;
+ }
+
+ .L_Web ul img:hover {
+   opacity: 60%;
+ }
+
  #CVI {
  width:45px;
  height:33px;
